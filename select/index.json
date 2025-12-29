@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Time Machine",
+  "base_artist": "Robyn",
+  "createdAt": "2025-12-29T10:56:45.260440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honky Tonk Time Machine",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Honky_Tonk_Time_Machine_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Time Machine",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Time_Machine_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Time Machine",
+      "artist": "Mick Softley",
+      "has_synced": false,
+      "path": "select/03_Time_Machine_Mick_Softley.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Time Machine",
+      "artist": "Factory",
+      "has_synced": false,
+      "path": "select/04_Time_Machine_Factory.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Son of a Time Machine",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/05_Son_of_a_Time_Machine_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Time Machine Pop Gun",
+      "artist": "Westworld",
+      "has_synced": false,
+      "path": "select/06_Time_Machine_Pop_Gun_Westworld.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Time Machine",
+      "artist": "Elliphant",
+      "has_synced": false,
+      "path": "select/07_Time_Machine_Elliphant.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Silver Time Machine",
+      "artist": "Death In Vegas",
+      "has_synced": true,
+      "path": "select/08_Silver_Time_Machine_Death_In_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Time Machine",
+      "artist": "Grand Funk Railroad",
+      "has_synced": false,
+      "path": "select/09_Time_Machine_Grand_Funk_Railroad.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Time Machine",
+      "artist": "Accept",
+      "has_synced": false,
+      "path": "select/10_Time_Machine_Accept.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Time Machine",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/11_Time_Machine_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Time Machine",
+      "artist": "Robyn",
+      "has_synced": true,
+      "path": "select/12_Time_Machine_Robyn.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Time Machine",
+      "artist": "Robyn",
+      "has_synced": false,
+      "path": "select/pl_01_Time_Machine_Robyn.txt"
+    }
+  ]
+}
